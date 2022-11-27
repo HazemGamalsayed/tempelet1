@@ -114,32 +114,33 @@ body {
 
     }
     .landing {
-      background-image: url(../imgs/2019_1_10_14_38_28_435.jpg);  
-      background-size: cover ;
-      height: calc(100vh - 90px);
-
-    }
-    .landing .intro-text {
-        position: absolute;
-        left: 50%;
-        top: 50%;
-        transform : translate(-50% , -50%); 
-        text-align: center;
-
-    }
-    .landing .intro-text h1 {
-        margin: 0 ;
-        font-weight: bold;
-        font-size: 50px;
-        color:brown;
-        
-    }
-    .landing .intro-text p {
-     font-size: 19px;
-     line-height: 1,8;
-        
-    }
-
-    
-    
-
+        background-image: url(../imgs/2019_1_10_14_38_28_435.jpg);  
+        background-size: cover ;
+        height: calc(100vh - 90px);
+  
+      }
+      .landing .intro-text {
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          transform : translate(-50% , -50%); 
+          text-align: center;
+  
+      }
+      .landing .intro-text h1 {
+          margin: 0 ;
+          font-weight: bold;
+          font-size: 50px;
+          color:brown;
+          
+      }
+      .landing .intro-text p {
+       font-size: 19px;
+       line-height: 1,8;
+          
+      }
+  
+      
+      
+  
+  
