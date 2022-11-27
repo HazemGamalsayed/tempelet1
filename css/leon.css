@@ -46,8 +46,11 @@ body{
     .header.logo{
         width: 60px;
     }
-    header.links{
+    .header.links{
         position: relative;
+    }
+    .header.header.links.icon span :nth-child(2){
+    width: 100%;
     }
     .header.links.icon{
        width:30px;
@@ -57,7 +60,19 @@ body{
     .header.links.icon span{
         background-color: bisque;
         margin-bottom: 5px;
+        height: 2px;
     }
+    .header.header.links.icon span :first-child{
+       width: 100%;
+    }
+    .header.header.links.icon span :nth-child(2){
+        width: 100%;
+        transition: 0,3s;
+    }
+    .header.header.links.icon span:last-child{
+        width: 100%;
+    }
+
 
     
     
