@@ -204,7 +204,7 @@ body {
         flex-basis: 60px;
        } 
        .services .services-content .srv .text {
-        
+        flex: 1;
        }
 
             
