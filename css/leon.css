@@ -157,7 +157,16 @@ body {
       .features .feat {
         padding: 20px;
         text-align: center;
+
       }
+      .features .feat i {
+        color: #000;
+      }
+      .features .feat h3 {
+        font-weight: 800;
+        margin: 30px 0; 
+      }
+      
   
       
       
