@@ -143,9 +143,20 @@ body {
           
       }
       .features {
-       padding-top: 60px;
-       padding-bottom: 60px;
+       padding:60px;
        background-color: rgb(151, 135, 135);
+       
+     
+    }
+
+      .features .container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        grid-gap: 20px;
+      }
+      .features .feat {
+        padding: 20px;
+        text-align: center;
       }
   
       
