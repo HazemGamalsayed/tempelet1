@@ -209,7 +209,12 @@ body {
        .services .services-content .srv .text h3 {
         margin:0 0 20px;
        }
-       
+       .services .services-content .srv .text p {
+        color: dimgray;
+        font-weight: 300;
+        line-height: 1.6;
+       }
+
 
             
   
