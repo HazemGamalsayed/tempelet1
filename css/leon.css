@@ -288,13 +288,15 @@ body {
 
         }
         .about .about-content .text p:first-of-type {
-
+         font-weight: bold;
+         line-height: 2;
+         margin-bottom: 60px;
         }
         .about .about-content hr {
 
         }
         .about .about-content .text p:last-of-type {
-            
+
         }
 
 
