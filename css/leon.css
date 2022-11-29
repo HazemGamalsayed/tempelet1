@@ -261,12 +261,12 @@ body {
         flex-wrap: wrap;
         justify-content: space-between;
        }
-        .about.about-content {
+        .about .about-content {
             position: relative;
             width: 250px;
             height: 375px;
         }
-        .about.about-content::before {
+        .about .about-content::before {
             content: "";
             position: absolute;
             background-color: #000;
@@ -276,12 +276,18 @@ body {
             left: -20px;
             z-index: -1;
         }
-        .about.about-content::after {
+        .about .about-content::after {
             content: "";
         }
-        .about.about-content .image img {
+        .about .about-content .image img {
             max-width: 100%;
         }
+        .about .about-content .text {
+            flex-basis: calc(100% -500px);
+            padding-left: 80px;
+
+        }
+
 
 
 
