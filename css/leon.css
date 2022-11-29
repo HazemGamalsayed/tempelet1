@@ -30,7 +30,7 @@ body {
         margin: -30px 0 0;
         font-size: 20px;
         text-align: center;
-        color: aquamarine;
+        color: rgb(7, 19, 15);
        }
         /*small*/
        @media(min-width:768px) {
@@ -92,7 +92,7 @@ body {
         list-style:lower-greek ;
         margin: 0%;
         padding: 0;
-        background-color: rgb(8, 243, 165);
+        background-color: rgb(8, 17, 14);
         position:absolute;
         right : 0 ;
         min-width: 200px;
@@ -106,7 +106,7 @@ body {
         content: "";
         border-width: 10px;
         border-style: solid;
-        border-color:transparent transparent turquoise transparent;
+        border-color:transparent transparent rgb(0, 0, 0) transparent;
         position:absolute;
         right: 5px;
         top: -20px;
@@ -200,7 +200,7 @@ body {
     
       }
        .services .services-content .srv i{
-        color: aqua;
+        color: rgb(2, 5, 5);
         flex-basis: 60px;
        } 
        .services .services-content .srv .text {
@@ -227,7 +227,7 @@ body {
        .portfolio {
         padding-top: 60px;
         padding-bottom: 60px;
-        background-color: #f6f6f6;
+        background-color: #790d0d;
        }
 
 
