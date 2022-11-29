@@ -239,7 +239,17 @@ body {
         background-color: white;
        }
        .portfolio .portfolio-content .card image {
-        min-width: 100%;
+        min-width: 10px;
+       }
+       .portfolio .portfolio-content .card .info {
+        padding: 20px;
+       }
+       .portfolio .portfolio-content .card .info h3 {
+        margin: 0;
+       } .portfolio .portfolio-content .card .info p {
+        color: #777;
+        line-height: 1.6;
+        margin-bottom: 0;
        }
 
 
