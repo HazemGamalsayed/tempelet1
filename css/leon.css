@@ -218,7 +218,13 @@ body {
         text-align: center;
         position: relative;
        }
-       
+       .services .services-content .srv .image::before {
+        content:"" ;
+       }
+       .services .services-content .srv .image{
+        width: 260px;
+       } 
+
 
 
             
