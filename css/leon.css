@@ -214,6 +214,11 @@ body {
         font-weight: 300;
         line-height: 1.6;
        }
+       .services .services-content .srv .image {
+        text-align: center;
+        position: relative;
+       }
+       
 
 
             
