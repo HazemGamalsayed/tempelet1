@@ -266,6 +266,12 @@ body {
             width: 250px;
             height: 375px;
         }
+        .about.about-content::before {
+            content: "";
+        }
+        .about.about-content::after {
+            content: "";
+        }
 
 
 
