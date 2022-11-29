@@ -293,6 +293,9 @@ body {
          margin-bottom: 60px;
         }
         .about .about-content hr {
+            width: 60px;
+            display: inline-block;
+            border-color: black;
 
         }
         .about .about-content .text p:last-of-type {
