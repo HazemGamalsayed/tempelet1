@@ -229,6 +229,12 @@ body {
         padding-bottom: 60px;
         background-color: #790d0d;
        }
+       .portfolio .portfolio-content{
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        grid-gap: 30px;
+        margin: 80px;
+       }
 
 
 
