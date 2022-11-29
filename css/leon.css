@@ -272,6 +272,9 @@ body {
         .about.about-content::after {
             content: "";
         }
+        .about.about-content .image img {
+            max-width: 100%;
+        }
 
 
 
