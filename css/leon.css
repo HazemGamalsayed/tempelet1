@@ -287,9 +287,13 @@ body {
             padding-left: 80px;
 
         }
-        .about .about-content .text p:first-of-type{
+        .about .about-content .text p:first-of-type {
+
+        }
+        .about .about-content hr {
             
         }
+
 
 
 
