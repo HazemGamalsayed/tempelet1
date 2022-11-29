@@ -262,7 +262,9 @@ body {
         justify-content: space-between;
        }
         .about.about-content {
-            
+            position: relative;
+            width: 250px;
+            height: 375px;
         }
 
 
